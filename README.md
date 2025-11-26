@@ -101,5 +101,8 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 
 
 ## Projects
-- Detection Lab
+- Building A Home Lab
 - SOC Automation Project
+- Active Directory
+- SOAR EDR Project
+- T-Pot Honeypot
