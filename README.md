@@ -18,25 +18,17 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Virtualization Stack
+<div> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### SIEM & Logging
+<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk_Add--on_for_Sysmon-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Offensive Tools
+<div> <img src="https://img.shields.io/badge/-nmap-004B87?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-msfvenom-B03060?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploit_Framework-2A2A2A?&style=for-the-badge&logo=Metasploit&logoColor=white" /> </div>
+
+### Core Utilities
+<div> <img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/-Registry_Editor-008000?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-7Zip-000000?&style=for-the-badge&logo=7Zip&logoColor=white" /> <img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
 
 ## Certifications
 <div>
