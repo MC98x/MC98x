@@ -1,25 +1,17 @@
 # Hello, I'm MC
 <a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
 Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR, honeypots, and Active Directory security.
 
-
-
-
 ## Objective
-
-
 Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
-
-
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Infrastructure & Systems Administration         | <a href="[https://google.com](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
