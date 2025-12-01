@@ -11,11 +11,10 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Infrastructure & Systems Administration         | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Architecture & Isolation (Sandboxing) | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
+| Detection Engineering (Blue Team)         | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
+| Threat Simulation (Red Team)      | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
+
 
 ## Tools
 
