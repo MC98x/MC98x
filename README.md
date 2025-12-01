@@ -7,7 +7,6 @@ Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR
 Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
