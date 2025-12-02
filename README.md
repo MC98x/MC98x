@@ -1,5 +1,8 @@
 # Hello, I'm MC
-<a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.credly.com/users/MC Castaneda98">
+    <img src="https://img.shields.io/badge/-Certifications-ffbf00?&style=for-the-badge&logo=apache%20spark&logoColor=black" />
+</a>
+
 
 Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR, honeypots, and Active Directory security.
 
