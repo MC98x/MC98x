@@ -85,8 +85,9 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 
 
 ## Projects
-- Cybersecurity Home Lab Setup and Threat Telemetry Analysis
-- SOC Automation Project (In Progress)
-- Active Directory (In Progress)
-- SOAR EDR Project (In Progress)
-- T-Pot Honeypot (In Progress)
+- [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
+- [SOC Automation Project (In Progress)](https://github.com/yourusername/soc-automation)
+- [Active Directory (In Progress)](https://github.com/yourusername/active-directory-lab)
+- [SOAR EDR Project (In Progress)](https://github.com/yourusername/soar-edr)
+- [T-Pot Honeypot (In Progress)](https://github.com/yourusername/tpot-honeypot)
+
