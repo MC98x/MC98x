@@ -21,17 +21,41 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 
 ## Tools
 
-### Virtualization Stack
-<div> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /> <img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" /> </div>
+### Virtualization & Cloud
+<div>
+<img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vultr-0078D4?&style=for-the-badge&logo=Vultr&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu_24.04-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+</div>
 
-### SIEM & Logging
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk_Add--on_for_Sysmon-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> </div>
+### SIEM, SOAR, & Logging
+<div>
+<img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shuffle_(SOAR)-385F71?&style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirusTotal-000000?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</div>
 
-### Offensive Tools
-<div> <img src="https://img.shields.io/badge/-nmap-004B87?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-msfvenom-B03060?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Metasploit_Framework-2A2A2A?&style=for-the-badge&logo=Metasploit&logoColor=white" /> </div>
+### Offensive & Network
+<div>
+<img src="https://img.shields.io/badge/-nmap-004B87?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit_Framework-2A2A2A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-msfvenom-B03060?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
 
-### Core Utilities
-<div> <img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/-Registry_Editor-008000?&style=for-the-badge&logo=Windows&logoColor=white" /> <img src="https://img.shields.io/badge/-7Zip-000000?&style=for-the-badge&logo=7Zip&logoColor=white" /> <img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> </div>
+### Utilities & Languages
+<div>
+<img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-RegEx-4E009D?&style=for-the-badge&logo=regex&logoColor=white" />
+<img src="https://img.shields.io/badge/-YAML%2FJSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/-Registry_Editor-008000?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-7Zip-000000?&style=for-the-badge&logo=7Zip&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
