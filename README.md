@@ -11,12 +11,13 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Infrastructure & Systems Administration         | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
-| Network Architecture & Isolation (Sandboxing) | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
-| Detection Engineering (Blue Team)         | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
-| Threat Simulation (Red Team)      | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Cybersecurity Home Lab Setup and Threat Telemetry Analysis</a>|
+| Skill Category | Specific Capabilities Demonstrated | Associated Projects |
+| :--- | :--- | :--- |
+| **Security Automation (SOAR)** | **Workflow Automation (Shuffle)**, API Integration (Wazuh, VT, TheHive), **Threat Intelligence Enrichment (VirusTotal)**, Automated Case Management, Reducing MTTR | <a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
+| **Detection Engineering (SIEM)** | **Custom Rule Development (Wazuh/XML)**, **Sysmon** Telemetry Ingestion, SIEM Querying (**SPL**, Wazuh Dashboard), High-Fidelity Alert Tuning | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
+| **Infrastructure & Cloud** | **Hybrid-Cloud Deployment (Vultr)**, Linux Server Hardening (**UFW**), **Virtualization Management (VirtualBox)**, YAML/JSON Configuration | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
+| **Threat Simulation (Red Team)** | **Adversary Emulation (Mimikatz)**, **Metasploit** Payload Generation (**msfvenom**), Reconnaissance (**nmap**), Defense Evasion Techniques | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
+| **Log Analysis & Tools** | **RegEx** for IOC Extraction, PowerShell for Integrity/Hash Checks, Network Segmentation & Isolation, Snapshot/Disaster Recovery | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
 
 
 ## Tools
