@@ -9,15 +9,26 @@ Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR
 ## Objective
 Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
 
+This is the final polish needed for a highly effective skills section. Your existing table structure is excellent, but we can make the content far more robust by incorporating the powerful, specific skills from your three projects, especially the **Active Directory** skills.
+
+I have created a new table below. I've broken down some categories and added a crucial **Identity & Access Management (IAM)** row to explicitly showcase your AD experience, which is a major resume booster for a SOC Analyst.
+
+Here is the revised, comprehensive, and consolidated skills table:
+
+Thank you for providing the specific project links and the detailed skills lists for all three projects. This makes the consolidation much easier and ensures maximum accuracy.
+
+The table below is the final, comprehensive revision of your skills section, integrating and highlighting the most valuable experience from all three projects, particularly the new **Active Directory** skills.
+
 ## Skills
 
 | Skill Category | Specific Capabilities Demonstrated | Associated Projects |
 | :--- | :--- | :--- |
-| **Security Automation (SOAR)** | **Workflow Automation (Shuffle)**, API Integration (Wazuh, VT, TheHive), **Threat Intelligence Enrichment (VirusTotal)**, Automated Case Management, Reducing MTTR | <a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
-| **Detection Engineering (SIEM)** | **Custom Rule Development (Wazuh/XML)**, **Sysmon** Telemetry Ingestion, SIEM Querying (**SPL**, Wazuh Dashboard), High-Fidelity Alert Tuning | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
-| **Infrastructure & Cloud** | **Hybrid-Cloud Deployment (Vultr)**, Linux Server Hardening (**UFW**), **Virtualization Management (VirtualBox)**, YAML/JSON Configuration | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
-| **Threat Simulation (Red Team)** | **Adversary Emulation (Mimikatz)**, **Metasploit** Payload Generation (**msfvenom**), Reconnaissance (**nmap**), Defense Evasion Techniques | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
-| **Log Analysis & Tools** | **RegEx** for IOC Extraction, PowerShell for Integrity/Hash Checks, Network Segmentation & Isolation, Snapshot/Disaster Recovery | <a href="https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis">Home Lab & Telemetry Analysis</a><br><a href="https://github.com/MC98x/SOC-Automation-Project">SOC Automation Project</a> |
+| **Security Automation (SOAR)** | **Full SOAR Playbook Development (Shuffle)**, API Integration (Splunk, Wazuh, AD, TheHive, VT), **Active Directory Account Containment**, **Human-in-the-Loop Logic (Email/Slack)**, Automated Case Management, Reducing **MTTR** (Mean Time to Respond). | [SOC-Automation-Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
+| **Detection Engineering (SIEM)** | **Custom Log Querying (SPL & Wazuh Dashboard)**, High-Fidelity Rule Tuning (**Wazuh XML**), Log Ingestion Pipeline (Splunk UF, Wazuh Agent, Sysmon), **Event ID 4624** & Process Creation Analysis, Near Real-Time Alert Configuration. | [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOC-Automation-Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
+| **Identity & Access Management (IAM)**| **Active Directory Administration (DC Promotion)**, **Organizational Units (OUs)** Management, **DNS** Configuration, **Windows Server 2022**, RDP Configuration, Domain Join & User Account Management. | [Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
+| **Infrastructure & Cloud** | **Hybrid-Cloud Deployment (Vultr/VirtualBox)**, **Network Segmentation** (Internal Network Mode), Linux Server Hardening (**UFW**), YAML/JSON Configuration, Snapshot & Disaster Recovery Strategies. | [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOC-Automation-Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
+| **Threat Simulation** | **Adversary Emulation (Mimikatz, External RDP)**, **Metasploit** Payload Generation (**msfvenom**), Reconnaissance (**nmap**), Credential Dumping Simulation, Defense Evasion Techniques. | [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOC-Automation-Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
+| **Log Analysis & Tools** | **RegEx** for **IOC Extraction (SHA256)**, PowerShell for Integrity/Hash Checks, **Sysmon** Telemetry Analysis, Auditing Windows Registry, Static IP Configuration. | [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOC-Automation-Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
 
 
 ## Tools
