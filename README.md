@@ -36,8 +36,7 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 ### SIEM, SOAR, & Endpoint Logging
 <div>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://imgshields.io/badge/-Splunk_Universal_Forwarder-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk_Universal_Forwarder-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
 <img src="https://img.shields.io/badge/-Shuffle_(SOAR)-385F71?&style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
