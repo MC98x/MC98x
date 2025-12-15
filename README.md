@@ -9,16 +9,6 @@ Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR
 ## Objective
 Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
 
-This is the final polish needed for a highly effective skills section. Your existing table structure is excellent, but we can make the content far more robust by incorporating the powerful, specific skills from your three projects, especially the **Active Directory** skills.
-
-I have created a new table below. I've broken down some categories and added a crucial **Identity & Access Management (IAM)** row to explicitly showcase your AD experience, which is a major resume booster for a SOC Analyst.
-
-Here is the revised, comprehensive, and consolidated skills table:
-
-Thank you for providing the specific project links and the detailed skills lists for all three projects. This makes the consolidation much easier and ensures maximum accuracy.
-
-The table below is the final, comprehensive revision of your skills section, integrating and highlighting the most valuable experience from all three projects, particularly the new **Active Directory** skills.
-
 ## Skills
 
 | Skill Category | Specific Capabilities Demonstrated | Associated Projects |
