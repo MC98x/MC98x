@@ -66,55 +66,44 @@
 </div>
 
 ## Certifications
-<div>
-<!-- A+ -->
-<a href="YOUR-VERIFY-LINK" target="_blank">
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-  
-<!-- Network+ -->
-<a href="YOUR-VERIFY-LINK" target="_blank">
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
 
-<!-- Security+ -->
+### Current & In-Progress
+<div>
+<img src="https://img.shields.io/badge/-CySA%2B_(Expected_Jan_2026)-005A9C?style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-CCSP_(Expected_Feb_2026)-008CBA?style=for-the-badge&logo=ISC2&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Pentest%2B_(Expected_March_2026)-6A0DAD?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+<br/>
+
+### Completed
+<div>
 <a href="YOUR-VERIFY-LINK" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-<!-- SSCP -->
 <a href="YOUR-VERIFY-LINK" target="_blank">
 <img src="https://img.shields.io/badge/-SSCP-6DB33F?style=for-the-badge&logo=ISC2&logoColor=white" />
 </a>
 
-<!-- Linux Essentials -->
+<a href="YOUR-VERIFY-LINK" target="_blank">
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 <a href="YOUR-VERIFY-LINK" target="_blank">
 <img src="https://img.shields.io/badge/-Linux_Essentials-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
 </a>
 
-<!-- Project+ -->
+<a href="YOUR-VERIFY-LINK" target="_blank">
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 <a href="YOUR-VERIFY-LINK" target="_blank">
 <img src="https://img.shields.io/badge/-Project%2B-0066CC?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
-
-<!-- CySA+ (In Progress) -->
-<a href="YOUR-VERIFY-LINK" target="_blank">
-<img src="https://img.shields.io/badge/-CySA%2B-005A9C?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
-<!-- CCSP (In Progress) -->
-<a href="YOUR-VERIFY-LINK" target="_blank">
-<img src="https://img.shields.io/badge/-CCSP-008CBA?style=for-the-badge&logo=ISC2&logoColor=white" />
-</a>
-
-<!-- Pentest+ (In Progress) -->
-<a href="YOUR-VERIFY-LINK" target="_blank">
-<img src="https://img.shields.io/badge/-Pentest%2B-6A0DAD?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-
 </div>
-
-
 
 ## Projects
 - [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
