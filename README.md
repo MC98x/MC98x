@@ -1,13 +1,12 @@
-# Hello, I'm MC
-<a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.credly.com/users/mc-castaneda">
-    <img src="https://img.shields.io/badge/-Certifications-ffbf00?&style=for-the-badge&logo=apache%20spark&logoColor=black" />
-</a>
+# Hello, I'm MC  
+### SOC Analyst | Detection Engineer | Automation Enthusiast
 
+<a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.credly.com/users/mc-castaneda"><img src="https://img.shields.io/badge/-Certifications-ffbf00?&style=for-the-badge&logo=apache%20spark&logoColor=black" /></a>
 
-Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR, and Active Directory security.
+**Objective:** Aspiring SOC Analyst with a focus on reducing **MTTR** through automation and high-fidelity detection engineering. I build hands-on labs that simulate the full incident lifecycle—from adversary emulation to automated remediation.
 
-## Objective
-Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
+---
 
 ## Technical Skills & Project Impact
 
