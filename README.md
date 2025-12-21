@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.credly.com/users/mc-castaneda"><img src="https://img.shields.io/badge/-Certifications-ffbf00?&style=for-the-badge&logo=apache%20spark&logoColor=black" /></a>
 
-**Objective:** Aspiring SOC Analyst with hands-on experience deploying and managing the full "Detection to Response" lifecycle. Specialized in building high-fidelity detection pipelines and reducing MTTR via SOAR automation (Tines/Shuffle) and EDR orchestration.
+**Objective:** Security+ & SSCP certified SOC Analyst candidate with hands-on experience deploying and managing the full "Detection to Response" lifecycle. Specialized in building high-fidelity detection pipelines and reducing MTTR via SOAR automation (Tines/Shuffle) and EDR orchestration.
 
 ---
 
@@ -13,12 +13,11 @@
 | Skill Category | Specific Capabilities Demonstrated | Associated Projects |
 | :--- | :--- | :--- |
 | **Security Automation (SOAR)** | **Full Playbook Lifecycle (Shuffle & Tines)**, API Orchestration (LimaCharlie, Wazuh, TheHive, VT), **Multi-Channel Alerting (Slack/Email)**, **Human-in-the-Loop Logic**, Automated **Host Isolation** & **AD Account Containment**, Response Time Optimization (**MTTR**). | [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)<br>[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
-| **Detection Engineering (SIEM/EDR)** | **EDR Deployment (LimaCharlie)**, **Custom D&R Rule Creation (YAML)**, High-Fidelity SIEM Tuning (**Wazuh XML & Splunk SPL**), Ingestion Pipeline Management (Universal Forwarders, Sysmon), **Telemetry Analysis** (Process Trees, Hash Verification). | [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)<br>[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis) |
+| **Detection Engineering (SIEM/EDR)** | **EDR Deployment (LimaCharlie)**, **Custom D&R Rule Creation (YAML)**, Mapping telemetry to the **MITRE ATT&CK Framework**, High-Fidelity SIEM Tuning (**Wazuh XML & Splunk SPL**), Ingestion Pipeline Management (Universal Forwarders, Sysmon). | [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)<br>[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis) |
 | **Identity & Access Management (IAM)** | **Active Directory Domain Services (AD DS)**, Group Policy/OU Management, **Domain Controller Promotion (Windows Server 2022)**, DNS Configuration, **Automated Account Remediation** via SOAR. | [Active Directory Project](https://github.com/MC98x/Active-Directory-Project) |
 | **Infrastructure & Cloud** | **Hybrid-Cloud Architecture (Vultr/VirtualBox)**, VPC & Network Segmentation, **Linux Hardening (UFW)**, Configuration Management (YAML/JSON), **Snapshot/Disaster Recovery** strategies for sandboxing. | [All Projects Combined] |
-| **Threat Simulation** | **Adversary Emulation (Mimikatz, LaZagne)**, Payload Generation (**msfvenom**), Post-Exploitation (Metasploit), **Defense Evasion Tactics**, Reconnaissance (nmap), Simulated C2 Delivery via Python. | [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)<br>[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis) |
+| **Threat Simulation** | **Adversary Emulation (Mimikatz, LaZagne)**, **MITRE ATT&CK Tactic Mapping**, Payload Generation (**msfvenom**), Post-Exploitation (Metasploit), **Defense Evasion Tactics**, Reconnaissance (nmap). | [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)<br>[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)<br>[Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis) |
 | **Analytical Tools** | **RegEx** for IOC Extraction, **PowerShell** for Cryptographic Hashing (**SHA256**), Sysmon Telemetry Analysis (Olaf Hartong Config), Windows Registry Auditing, API Documentation parsing. | [Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project) |
-
 
 ## Security Tool Stack
 
@@ -58,6 +57,8 @@
 
 ### DevOps & Utilities
 <div>
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-RegEx-4E009D?&&style=for-the-badge&logo=regex&logoColor=white" />
