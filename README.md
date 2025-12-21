@@ -4,7 +4,7 @@
 <a href="https://linkedin.com/in/mc-castaneda98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.credly.com/users/mc-castaneda"><img src="https://img.shields.io/badge/-Certifications-ffbf00?&style=for-the-badge&logo=apache%20spark&logoColor=black" /></a>
 
-**Objective:** Aspiring SOC Analyst with a focus on reducing **MTTR** through automation and high-fidelity detection engineering. I build hands-on labs that simulate the full incident lifecycle—from adversary emulation to automated remediation.
+**Objective:** Aspiring SOC Analyst with hands-on experience deploying and managing the full "Detection to Response" lifecycle. Specialized in building high-fidelity detection pipelines and reducing MTTR via SOAR automation (Tines/Shuffle) and EDR orchestration.
 
 ---
 
@@ -108,18 +108,21 @@
 ## Projects
 
 * **[SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)**
+    * **Stack:** `LimaCharlie (EDR)`, `Tines (SOAR)`, `Slack API`, `Cloud (Vultr)`
     * **Core Goal:** Automated the detection and containment of credential-dumping tools (LaZagne) using an EDR/SOAR integration.
     * **Outcome:** Reduced **MTTR** to under **60 seconds** by engineering a "Human-in-the-Loop" workflow in Tines to authorize automated host isolation via LimaCharlie API.
 
 * **[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)**
-    * **Core Goal:** Developed an end-to-end incident response pipeline integrating **Wazuh (SIEM)**, **Shuffle (SOAR)**, and **TheHive (Case Management)**.
-    * **Outcome:** Automated IOC enrichment using the **VirusTotal API** and streamlined case creation, reducing manual triage efforts by approximately 80%.
+    * **Stack:** `Wazuh (SIEM/XDR)`, `Shuffle (SOAR)`, `TheHive`, `VirusTotal API`
+    * **Core Goal:** Developed an end-to-end incident response pipeline to bridge the gap between detection and case management.
+    * **Outcome:** Automated IOC enrichment and case creation, reducing manual triage efforts by approximately 80% and ensuring consistent alert context.
 
 * **[Active Directory Project](https://github.com/MC98x/Active-Directory-Project)**
+    * **Stack:** `Windows Server 2022`, `Splunk`, `Active Directory`, `Shuffle (SOAR)`
     * **Core Goal:** Simulated a corporate environment to detect and remediate unauthorized AD account activity.
     * **Outcome:** Engineered a Splunk-to-Shuffle webhook trigger to detect anomalous **Event ID 4624** (logins) and implemented automated account disabling through AD-integrated SOAR playbooks.
 
 * **[Home Lab & Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)**
+    * **Stack:** `Splunk`, `Sysmon`, `Kali Linux`, `Metasploit`, `PowerShell`
     * **Core Goal:** Built a secure sandbox to execute malware and analyze attacker behavior through granular logging.
-    * **Outcome:** Mastered **Sysmon** and **Splunk SPL** to map adversary tactics (Metasploit/msfvenom) to the MITRE ATT&CK framework, ensuring 100% visibility into process creation and network callbacks.
-
+    * **Outcome:** Mastered **Splunk SPL** to map adversary tactics to the **MITRE ATT&CK** framework, ensuring 100% visibility into process creation and network callbacks.
