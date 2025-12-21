@@ -106,8 +106,20 @@
 </div>
 
 ## Projects
-- [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
-- [SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)
-- [Active Directory Project](https://github.com/MC98x/Active-Directory-Project)
-- [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)
+
+* **[SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)**
+    * **Core Goal:** Automated the detection and containment of credential-dumping tools (LaZagne) using an EDR/SOAR integration.
+    * **Outcome:** Reduced **MTTR** to under **60 seconds** by engineering a "Human-in-the-Loop" workflow in Tines to authorize automated host isolation via LimaCharlie API.
+
+* **[SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)**
+    * **Core Goal:** Developed an end-to-end incident response pipeline integrating **Wazuh (SIEM)**, **Shuffle (SOAR)**, and **TheHive (Case Management)**.
+    * **Outcome:** Automated IOC enrichment using the **VirusTotal API** and streamlined case creation, reducing manual triage efforts by approximately 80%.
+
+* **[Active Directory Project](https://github.com/MC98x/Active-Directory-Project)**
+    * **Core Goal:** Simulated a corporate environment to detect and remediate unauthorized AD account activity.
+    * **Outcome:** Engineered a Splunk-to-Shuffle webhook trigger to detect anomalous **Event ID 4624** (logins) and implemented automated account disabling through AD-integrated SOAR playbooks.
+
+* **[Home Lab & Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)**
+    * **Core Goal:** Built a secure sandbox to execute malware and analyze attacker behavior through granular logging.
+    * **Outcome:** Mastered **Sysmon** and **Splunk SPL** to map adversary tactics (Metasploit/msfvenom) to the MITRE ATT&CK framework, ensuring 100% visibility into process creation and network callbacks.
 
