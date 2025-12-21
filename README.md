@@ -4,7 +4,7 @@
 </a>
 
 
-Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR, honeypots, and Active Directory security.
+Aspiring SOC analyst building hands-on defensive labs focused on SIEM, SOAR, EDR, and Active Directory security.
 
 ## Objective
 Seeking an entry-level cyber or SOC analyst role to apply real-world blue team skills in detection, automation, and threat response.
@@ -119,6 +119,5 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 - [Cybersecurity Home Lab Setup and Threat Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
 - [SOC Automation Project](https://github.com/MC98x/SOC-Automation-Project)
 - [Active Directory Project](https://github.com/MC98x/Active-Directory-Project)
-- [SOAR EDR Project (In-Progress)](https://github.com/MC98x/SOAR-EDR-Project)
-- [T-Pot Honeypot (In Progress)]
+- [SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project)
 
