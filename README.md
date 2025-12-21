@@ -21,47 +21,49 @@ Seeking an entry-level cyber or SOC analyst role to apply real-world blue team s
 | **Analytical Tools** | **RegEx** for IOC Extraction, **PowerShell** for Cryptographic Hashing (**SHA256**), Sysmon Telemetry Analysis (Olaf Hartong Config), Windows Registry Auditing, API Documentation parsing. | [Home Lab & Telemetry Analysis](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)<br>[SOAR EDR Project](https://github.com/MC98x/SOAR-EDR-Project) |
 
 
-## Tools
+## Security Tool Stack
 
-### Virtualization & Cloud
+### SIEM, EDR, & Case Management
 <div>
-<img src="https://img.shields.io/badge/-Vultr-0078D4?&style=for-the-badge&logo=Vultr&logoColor=white" />
-<img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ubuntu_24.04-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows_10-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows_Server_2022-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LimaCharlie_(EDR)-000000?&style=for-the-badge&logo=limacharlie&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM, SOAR, & Endpoint Logging
+### SOAR & Automation
 <div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk_Universal_Forwarder-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/-Shuffle_(SOAR)-385F71?&style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-5C2D91?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-VirusTotal-000000?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tines_(SOAR)-000000?&style=for-the-badge&logo=tines&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shuffle_(SOAR)-385F71?&style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Proton_Mail-6D4AFF?&style=for-the-badge&logo=ProtonMail&logoColor=white" />
 </div>
 
-### Offensive & Network
+### Virtualization & Cloud Infrastructure
 <div>
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-nmap-004B87?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit_Framework-2A2A2A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/-msfvenom-B03060?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/-RDP_Remote_Desktop-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vultr_Cloud-0078D4?&style=for-the-badge&logo=Vultr&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server_2022-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu_24.04-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Utilities, DevOps, & Communications
+### Offensive & Threat Simulation
 <div>
-<img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-RegEx-4E009D?&&style=for-the-badge&logo=regex&logoColor=white" />
-<img src="https://img.shields.io/badge/-YAML%2FJSON-000000?&style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/-Registry_Editor-008000?&style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Draw.io-000000?&style=for-the-badge&logo=drawio&logoColor=white" />
-<img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
-<img src="https://img.shields.io/badge/-7Zip-000000?&style=for-the-badge&logo=7Zip&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LaZagne-000000?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nmap-004B87?&style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+
+### DevOps & Utilities
+<div>
+  <img src="https://img.shields.io/badge/-PowerShell-2E67F8?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python_3-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RegEx-4E009D?&&style=for-the-badge&logo=regex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Draw.io-F08705?&style=for-the-badge&logo=drawio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 </div>
 
 ## Certifications
