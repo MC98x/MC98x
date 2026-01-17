@@ -7,8 +7,6 @@ Lake Elsinore, CA • Security+ • SSCP Associate
 
 **Core Stack:** Splunk • Wazuh • Sysmon • LimaCharlie • Tines • Shuffle • TheHive • VirusTotal • AD • Vultr
 
----
-
 ## Featured Projects
 
 ### 1) [SOAR + EDR Automated Containment (LimaCharlie + Tines)](https://github.com/MC98x/SOAR-EDR-Project)
@@ -28,9 +26,6 @@ Built a Splunk + Shuffle workflow to detect anomalous **4624** logons (external 
 
 ### 4) [Threat Telemetry Lab (Splunk + Sysmon)](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
 Built an isolated VirtualBox lab (Win11 + Kali) and ingested Sysmon into Splunk to triage process + network telemetry (suspicious parent/child execution, C2-style port **4444**).
-
-
----
 
 ## Certifications
 Security+ • Network+ • A+ • Project+ • Linux Essentials • **SSCP Associate**  
