@@ -1,5 +1,5 @@
 # MC Castaneda
-**SOC Analyst Candidate | Detection Engineering | SOAR Automation**  
+**SOC Analyst Candidate | SIEM Detection | SOAR Automation**  
 Lake Elsinore, CA • Security+ • SSCP Associate  
 [LinkedIn](https://linkedin.com/in/mc-castaneda98) • [Certifications](https://www.credly.com/users/mc-castaneda)
 
