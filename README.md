@@ -1,7 +1,7 @@
 # MC Castaneda
 **SOC Analyst Candidate | Detection Engineering | SOAR Automation**  
 Lake Elsinore, CA • Security+ • SSCP Associate  
-[LinkedIn](https://linkedin.com/in/mc-castaneda98) • [Credly](https://www.credly.com/users/mc-castaneda)
+[LinkedIn](https://linkedin.com/in/mc-castaneda98) • [Certifications](https://www.credly.com/users/mc-castaneda)
 
 **What I do:** I build detection-to-response pipelines across **SIEM/EDR/IAM** and automate triage/containment to reduce **MTTR**.
 
