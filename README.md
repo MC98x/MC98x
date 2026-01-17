@@ -27,6 +27,8 @@ Built a Splunk + Shuffle workflow to detect anomalous **4624** logons (external 
 ### 4) [Threat Telemetry Lab (Splunk + Sysmon)](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
 Built an isolated VirtualBox lab (Win11 + Kali) and ingested Sysmon into Splunk to triage process + network telemetry (suspicious parent/child execution, C2-style port **4444**).
 
+[![Threat Telemetry Lab Network Diagram](https://raw.githubusercontent.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis/main/docs/screenshots/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis-drawio.png)](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
+
 ## Certifications
 Security+ • Network+ • A+ • Project+ • Linux Essentials • **SSCP Associate**  
 In Progress: **CySA+ (Jan 2026)** • **CCSP (Feb 2026)** • **PenTest+ (Mar 2026)**
