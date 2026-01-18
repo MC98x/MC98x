@@ -17,7 +17,7 @@ Built a LimaCharlie + Tines workflow to detect LaZagne and automate Slack/email 
 ### 2) [SOC Automation Lab (Wazuh + Shuffle + TheHive)](https://github.com/MC98x/SOC-Automation-Project)
 Built a Wazuh + Shuffle pipeline to detect Mimikatz via Sysmon, enrich SHA256 IOCs with VirusTotal, and auto-create TheHive cases; cut manual triage **~80%** and delivered alerts **<60s**.
 
-[![SOC Automation Lab Network Diagram](https://raw.githubusercontent.com/MC98x/SOC-Automation-Project/main/Key-Screenshots/SOC-Automation-Project-V4.drawio.png)](https://github.com/MC98x/SOC-Automation-Project)
+[![SOC Automation Lab Network Diagram](https://raw.githubusercontent.com/MC98x/SOC-Automation-Project/main/Key-Screenshots/SOC-Automation-Project-Diagram-V4.drawio.png)](https://github.com/MC98x/SOC-Automation-Project)
 
 ### 3) [AD Login Detection + Auto-Containment (Splunk + Shuffle)](https://github.com/MC98x/Active-Directory-Project)
 Built a Splunk + Shuffle workflow to detect anomalous **4624** logons (external IP/RDP) and trigger approved **AD account disablement**, reducing containment to **<1 minute**.
