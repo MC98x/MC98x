@@ -1,6 +1,6 @@
 # MC Castaneda
 **SOC Analyst | SIEM Detection | SOAR Automation**  
-Lake Elsinore, CA • Security+ • SSCP  
+CySA+ • Security+ • SSCP  
 [LinkedIn](https://linkedin.com/in/mc-castaneda98) • [Certifications](https://www.credly.com/users/mc-castaneda)
 
 **What I do:** I build detection-to-response pipelines across **SIEM/EDR/IAM** and automate triage/containment to reduce **MTTR**.
