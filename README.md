@@ -30,6 +30,6 @@ Built an isolated VirtualBox lab (Win11 + Kali) and ingested Sysmon into Splunk 
 [![Threat Telemetry Lab Network Diagram](https://raw.githubusercontent.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis/main/docs/screenshots/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis-drawio.png)](https://github.com/MC98x/Cybersecurity-Home-Lab-Setup-and-Threat-Telemetry-Analysis)
 
 ## Certifications
-Security+ • Network+ • A+ • Project+ • Linux Essentials • **SSCP Associate**  
-In Progress: **CySA+ (Jan 2026)** • **CCSP (Feb 2026)** • **PenTest+ (Mar 2026)**
+CySA+ • Security+ • Network+ • A+ • Project+ • Linux Essentials • **SSCP Associate**  
+In Progress: **PenTest+ (Mar 2026)**
 
