@@ -1,7 +1,7 @@
 # MC Castaneda
 **SOC Analyst | SIEM Detection | SOAR Automation**  
 CySA+ • Security+ • SSCP  
-[LinkedIn](https://linkedin.com/in/mc-castaneda98) • [TryHackMe](https://tryhackme.com/p/mc98x) • [Certifications](https://www.credly.com/users/mc-castaneda)
+[LinkedIn](https://linkedin.com/in/mc-castaneda98) • [TryHackMe](https://tryhackme.com/p/MC98x) • [Certifications](https://www.credly.com/users/mc-castaneda)
 
 **What I do:** I build detection-to-response pipelines across **SIEM/EDR/IAM** and automate triage/containment to reduce **MTTR**.
 
